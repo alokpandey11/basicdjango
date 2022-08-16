@@ -1,3 +1,4 @@
+#Steps
 # install Python
 # create virtual env
 activate
