@@ -11,7 +11,7 @@ virtualenv virtualenv_name
 virtualenv_name/scripts/activate
 
 ## Install Django in venv
-python -m pip install Django
+pip install Django
 
 ## Writing your first Django app
 django-admin startproject mysite
